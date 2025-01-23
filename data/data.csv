@@ -1,0 +1,11 @@
+location,size,bedrooms,bathrooms,year_built,price
+center,1500,3,2,2010,350000
+country,2200,4,3,2005,500000
+center,1800,3,2,2015,420000
+country,2800,5,4,2000,650000
+center,1200,2,1,2018,300000
+center,,4,3,2012,475000
+country,1600,3,2,2007,375000
+center,2500,4,3,2010,525000
+country,2300,4,3,2015,525000
+center,1700,3,2,2020,400000
